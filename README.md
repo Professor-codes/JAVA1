@@ -1,3 +1,1 @@
 # JAVA1
-
-java
